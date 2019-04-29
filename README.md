@@ -1,2 +1,2 @@
-# Bruh-Bot
-node bot.js
+# Procfile
+Zindawrs
